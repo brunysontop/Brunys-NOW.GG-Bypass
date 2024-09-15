@@ -42,3 +42,21 @@ h1 {
 .btn:hover {
     background-color: #d4d4d4;
 }
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1em;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #d4d4d4;
+}
+
