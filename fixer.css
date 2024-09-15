@@ -3,8 +3,6 @@ body {
             padding: 0;
         }
         #refreshBox {
-            height: 40px;
-            width: 40px;
             z-index: 2;
             position: fixed;
             bottom: 10px;
