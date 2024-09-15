@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/tiw/',
-    bare:'https://aged-samuel-tramadol-warner.trycloudflare.com',
+    bare:'https://skibzy.global.ssl.fastly.net/bear/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
