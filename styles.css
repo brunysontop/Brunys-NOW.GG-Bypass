@@ -5,7 +5,8 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #000;
+    color: #fff;
     font-family: Arial, sans-serif;
 }
 
@@ -32,12 +33,12 @@ h1 {
     text-decoration: none;
     border: none;
     border-radius: 5px;
-    background-color: #007BFF;
-    color: white;
+    background-color: #fff;
+    color: #000;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #d4d4d4;
 }
